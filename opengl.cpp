@@ -1,5 +1,5 @@
 //Coded by Tyler Hennig, Abraham Solis, Rafael Amaro, Daniel Rodriguez
-
+//Computer Graphics Project
 
 #include <windows.h>  // for MS Windows
 #include <GL/glut.h>  // GLUT, include glu.h and gl.h
